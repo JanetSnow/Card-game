@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/tardis/Desktop/Project/ITSD-DT2022-Template/app/structures/basic/Unit.java:340:1: cannot find symbol[0m
+[0m[[0m[31merror[0m] [0m[0m  symbol:   method getLastTile()[0m
+[0m[[0m[31merror[0m] [0m[0m  location: class structures.basic.Grid[0m
+[0m[[0m[31merror[0m] [0m[0mgameState.getGrid().getLastTile[0m
